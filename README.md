@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Introduction
+
+An app where you can record and search all your cars and their cost using React and Redux.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
