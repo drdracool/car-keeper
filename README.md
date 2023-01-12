@@ -4,6 +4,13 @@ An app where you can record and search all your cars and their cost using React 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img width="1321" alt="image" src="https://user-images.githubusercontent.com/97832811/212038446-48c4d41a-5796-4523-a753-d94eeceb0288.png">
+
+<img width="1301" alt="image" src="https://user-images.githubusercontent.com/97832811/212038476-7ee530e1-7123-41ba-a384-77d22c1a135a.png">
+
+<img width="1317" alt="image" src="https://user-images.githubusercontent.com/97832811/212038516-16c1a168-5795-44f0-93b3-b6424ed04194.png">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
