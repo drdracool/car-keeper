@@ -1,8 +1,17 @@
-# Introduction
+# Car-Keeper: A Web-Based Car Manageement Application
 
-An app where you can record and search all your cars and their cost using React and Redux.
+## About the Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An app where you can record and search all your cars using React and Redux Toolkit.
+
+### Built With
+
+- React
+- Redux
+- HTML
+- CSS
+- Javascript
+- NPM
 
 <img width="1321" alt="image" src="https://user-images.githubusercontent.com/97832811/212038446-48c4d41a-5796-4523-a753-d94eeceb0288.png">
 
@@ -10,6 +19,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img width="1317" alt="image" src="https://user-images.githubusercontent.com/97832811/212038516-16c1a168-5795-44f0-93b3-b6424ed04194.png">
 
+
+## Description
+
+### Features
+
+- Create new car and the corresponding price
+- Highlight the item in the list which has the same name as typed in the input box
+- Delete a car item
+- Search a car item
+- Automatically calculate the total value of cars
+
+### Highlights
+
+- Allow users to add cars with the same name and price using identifying tokens generated with ```nanoid```
+- Clear the form after submission with the ```extraReducers``` technique
 
 ## Available Scripts
 
